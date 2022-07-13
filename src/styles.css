@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom, #0000ff 0%, #800080 65%);
+}
+
+p1 {
+  font-size: 85%;
+}
+
+p2 {
+  font-size: 85%;
+}
+
+p3 {
+  font-size: 85%;
+}
+
+p4 {
+  font-size: 100%;
+}
+
+h2 {
+  font-size: 125%;
+}
+
+img {
+  width: 75%;
+}
